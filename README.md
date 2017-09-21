@@ -1,3 +1,3 @@
 # rsschool-profile
-# Alexandra Korolyova
+Alexandra Korolyova
 https://www.codecademy.com/users/Sasha_Koroleva/achievements
