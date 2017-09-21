@@ -1,2 +1,3 @@
 # rsschool-profile
-The proof of my work
+# Alexandra Korolyova
+https://www.codecademy.com/users/Sasha_Koroleva/achievements
